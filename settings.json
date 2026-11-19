@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "ThomasSMP.aternos.me"
+    "port": 13669,
     "version": "",
     "try-creative": false
   },
